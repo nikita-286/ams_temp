@@ -299,9 +299,6 @@ body {
     box-sizing: border-box;
 }
 
-body {
-    font-family: Arial, sans-serif;
-}
 
 .container {
     width: 80%;
@@ -312,15 +309,7 @@ body {
     border-radius: 10px;
 }
 
-.header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #6b6b7a;
-    padding: 15px;
-    border-radius: 8px 8px 0 0;
-    color: #fff;
-}
+
 
 .date-info {
     font-size: 18px;
